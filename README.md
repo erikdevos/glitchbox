@@ -84,3 +84,5 @@ their own licences ([LICENSES/](LICENSES/), [LICENSING.md](LICENSING.md)).
 
 Glitchbox is not affiliated with or endorsed by Hügelton Instruments or M-VAVE. M-VAVE and FM-1 are trademarks of
 their respective owners.
+
+You can also try Glitchbox in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
